@@ -32,26 +32,27 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Nome do Projeto 1** | [🔗 Ver online](https://seu-link.com) | HTML / CSS / JS          |
-| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
+| **Advogada** | [🔗 Ver online](https://isa1718.github.io/att/)) | HTML / CSS / JS          |
 
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
 ---
 
 ## 💡 Sobre Mim
 
 -🎓 Atualmente estudo no SENAI
+
 -💻 Estou aprendendo Java, Git e desenvolvimento de aplicativos mobile
+
 -🎯 Meus objetivos são aprimorar meus conhecimentos em programação e em diversas áreas da tecnologia
+
 -📚 Gosto de aprender sobre Front-End, UX/UI e o universo do desenvolvimento em geral
+
 -✨ Ainda estou em busca de uma frase que me inspire todos os dias!
 
 ---
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Isabelly Victoria Arcanjo Silva)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_isa_victoria)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/isa1718)
